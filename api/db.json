@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Gaming Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "React Stream (LIVE NOW)",
+      "description": "Watch this stream to see me coding",
+      "isLive": "true",
+      "id": 4
+    },
+    {
+      "title": "Test Streammmm",
+      "description": "testing",
+      "isLive": "true",
+      "userId": "110524405319000705906",
+      "id": 7
+    }
+  ]
+}
